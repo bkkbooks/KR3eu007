@@ -1,0 +1,150 @@
+canonical_identifier: bkk:krp/KR3eu007/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eu007/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 癘瘍機要
+  identifiers:
+    krp: KR3eu007
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu007.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu007_000-jc.yaml, hash: 'sha256:697cdc7e4488de5a4da48f099f1180192cbbf78b66cf7c7c391777a446aa1916'}
+  - {seq: 1, filename: KR3eu007_001-jc.yaml, hash: 'sha256:81e743786fa6ec26e737301eb4b5bc878b40ef1f83a92a03f4ad795b4b2816dd'}
+  - {seq: 2, filename: KR3eu007_002-jc.yaml, hash: 'sha256:bdcd3ed87944d2f2639bb2fe0ba647ed8b21a054b2a82d7ec14a6eb1c4a82689'}
+  - {seq: 3, filename: KR3eu007_003-jc.yaml, hash: 'sha256:a74e14d65dce691dc5fc2d4b2f9cde20ce729d09967c89212e0a25a7ceb63d82'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu007_000-jc.markers.yaml, hash: 'sha256:a47363ba89c4d396970f9f847a2dcf879bf2ea1ea1f2010e3b7019997115a239'}
+  - {seq: 1, role: markers, filename: assets/KR3eu007_001-jc.markers.yaml, hash: 'sha256:d477edcc066e526004d93e12bb4cc4f3b7851f8e0fb022d4802180dcff4332e4'}
+  - {seq: 2, role: markers, filename: assets/KR3eu007_002-jc.markers.yaml, hash: 'sha256:ef02a46ffd506469870c43838a9c985ed140ead8aa28af56e3153e5e05003b79'}
+  - {seq: 3, role: markers, filename: assets/KR3eu007_003-jc.markers.yaml, hash: 'sha256:8ce6384b9d723b7ca1ea4c642a23f03487fec5d7efdf5fe1e68ad3fe6d23749f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu007_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 681
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11700
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3d4
+    span:
+    - body
+    - 384
+    - 1177
+  label: 本症治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3d5
+    span:
+    - body
+    - 1177
+    - 3108
+  label: 兼症治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3d6
+    span:
+    - body
+    - 3108
+    - 5890
+  label: 變症治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3d7
+    span:
+    - body
+    - 5890
+    - 6738
+  label: 癘瘍類症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3d8
+    span:
+    - body
+    - 6738
+    - 8294
+  label: 本症治驗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu007_jc_001-d3d9
+    span:
+    - body
+    - 8294
+    - 11700
+  label: 類症治驗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu007_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7177
+  label: 中卷
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eu007_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 7177
+  label: 續治諸症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu007_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 7878
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eu007_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 7878
+  label: 各症方藥
+  type: section
+  level: 2
+hash: sha256:d75af6398294f05e181b6ffe09ef4d895929e5b998b452ba8cf39ee597644290
