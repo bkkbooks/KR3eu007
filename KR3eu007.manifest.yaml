@@ -17,12 +17,12 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eu007_000.yaml, hash: 'sha256:98d3bb105174b0a6aeb5be8c1b3e02e96b8424295d1bd2014a177ce5377291f0'}
+  - {seq: 0, filename: KR3eu007_000.yaml, hash: 'sha256:05439a03bbe4fecfe71a2f33d6aba542b9da71d783ca0c83b89bc1b1203c1c67'}
   - {seq: 1, filename: KR3eu007_001.yaml, hash: 'sha256:3a6137018efe13ea5cb16e1595c70892c050b9da2cf94dc20c5edf57674faddc'}
   - {seq: 2, filename: KR3eu007_002.yaml, hash: 'sha256:245e93ec72f76962b084d128ef86820976299012b544a872456c42e67d28e964'}
   - {seq: 3, filename: KR3eu007_003.yaml, hash: 'sha256:2fe7736d5bb046b24a8f971e271f9aaa00c1ecfd1a18d53ce25f4d0559e017b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu007_000.markers.yaml, hash: 'sha256:aa19ac6986543aa8ca2f27996e89019929c0f0ce971e1f3e78f78bc60aaf149e'}
+  - {seq: 0, role: markers, filename: assets/KR3eu007_000.markers.yaml, hash: 'sha256:e643f932deeb4616a80e76b1a467250494cc3791790df62383ed4415c541a0ed'}
   - {seq: 1, role: markers, filename: assets/KR3eu007_001.markers.yaml, hash: 'sha256:6892810a365a75b250149e2fd1bc3f7e935e4a945b01bb81cd43bf2c6bc30005'}
   - {seq: 2, role: markers, filename: assets/KR3eu007_002.markers.yaml, hash: 'sha256:d0164a0be3548551da6230c24d3a6640fdb8e90dcf3642b8f5439227cc02d39a'}
   - {seq: 3, role: markers, filename: assets/KR3eu007_003.markers.yaml, hash: 'sha256:407c531f807d70db2f82075b19016696e41e6c4f4f65c243ceebe327bd98648c'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eu007_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 681
   label: 序
@@ -147,7 +147,7 @@ table_of_contents:
   label: 各症方藥
   type: section
   level: 2
-hash: sha256:ebfcde8ac2349fcaa39a448392c6011a871571c471846ea8adf144aec909bad7
+hash: sha256:14d86592c15030a52a67a1cfcfabbcd569c50f73b8a835ee0d6ffcf92051d53e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
